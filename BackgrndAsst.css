@@ -1,0 +1,11 @@
+body{
+    background-image: url(./sunpng.png),url(./sunflower.png),url(./clearsky.jpeg);
+    background-size: 300px, 500px, 100%;
+    background-repeat: no-repeat;
+    background-position: 400px 100px, 300px 100px, 0px 0px;
+    
+}
+#x{
+    background-position: 300px 100px;
+
+}
